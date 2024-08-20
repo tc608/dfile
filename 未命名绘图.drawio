@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="527" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="287" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,11 +18,14 @@
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-37" value="&lt;span style=&quot;color: rgb(35 , 47 , 62)&quot;&gt;PC官方网站&lt;/span&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FAE5C7;strokeColor=#006666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;fontColor=#143642;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="92" y="446" width="80" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="7oQJ4bdG35kOt4FpmPfC-36" value="开放接口" style="outlineConnect=0;fillColor=#006666;strokeColor=#666666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_sdk;labelBackgroundColor=none;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
+        <mxCell id="7oQJ4bdG35kOt4FpmPfC-36" value="开放接口(审方规则引擎)" style="outlineConnect=0;fillColor=#006666;strokeColor=#666666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_sdk;labelBackgroundColor=none;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="92" y="289" width="68" height="78" as="geometry" />
         </mxCell>
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-35" value="小程序(患者端)" style="outlineConnect=0;strokeColor=#006666;fillColor=#006666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;shape=mxgraph.aws4.mobile_client;labelBackgroundColor=none;html=1;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="99.5" y="119" width="53" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Utr0kUG83FJn1SRRKso7-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医疗数据汇入&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#006666;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;gradientDirection=north;" vertex="1" parent="7oQJ4bdG35kOt4FpmPfC-34">
+          <mxGeometry x="82" y="739" width="90" height="60" as="geometry" />
         </mxCell>
         <UserObject label="(备用)" id="3K_oNV2d-IeETJ5J5liT-101">
           <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
