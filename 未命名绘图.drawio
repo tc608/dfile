@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="1448" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,20 +298,20 @@
             <mxGeometry width="150" height="300" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-53" value="实时审方" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-53" value="审方规则引擎" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
           <mxGeometry x="25" y="51" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-54" value="移动审方" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-54" value="审方医疗数据" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
           <mxGeometry x="25" y="101" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-55" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-55" value="审方智能监测" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
           <mxGeometry x="25" y="201" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-56" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-56" value="审方数据统计" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
           <mxGeometry x="25" y="151" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-57" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
-          <mxGeometry x="25" y="251" width="100" height="40" as="geometry" />
+        <mxCell id="-22HzztCrq7GmQZzHRGp-57" value="院内/互联网/处方流转审方" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-51" vertex="1">
+          <mxGeometry x="25" y="250" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-22HzztCrq7GmQZzHRGp-73" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1610" y="1030" width="980" height="440" as="geometry" />
