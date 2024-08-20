@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="2082" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="527" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-36" value="开放接口" style="outlineConnect=0;fillColor=#006666;strokeColor=#666666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.external_sdk;labelBackgroundColor=none;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="92" y="289" width="68" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7oQJ4bdG35kOt4FpmPfC-35" value="微信-App" style="outlineConnect=0;strokeColor=#006666;fillColor=#006666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;shape=mxgraph.aws4.mobile_client;labelBackgroundColor=none;html=1;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
+        <mxCell id="7oQJ4bdG35kOt4FpmPfC-35" value="小程序(患者端)" style="outlineConnect=0;strokeColor=#006666;fillColor=#006666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;shape=mxgraph.aws4.mobile_client;labelBackgroundColor=none;html=1;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="99.5" y="119" width="53" height="100" as="geometry" />
         </mxCell>
         <UserObject label="(备用)" id="3K_oNV2d-IeETJ5J5liT-101">
@@ -145,7 +145,7 @@
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-7" value="患者" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;strokeColor=#7EA6E0;" parent="7oQJ4bdG35kOt4FpmPfC-44" vertex="1">
           <mxGeometry y="231" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oQJ4bdG35kOt4FpmPfC-8" value="xxx" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;strokeColor=#7EA6E0;" parent="7oQJ4bdG35kOt4FpmPfC-44" vertex="1">
+        <mxCell id="7oQJ4bdG35kOt4FpmPfC-8" value="监管部门:省卫健委" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;strokeColor=#7EA6E0;" parent="7oQJ4bdG35kOt4FpmPfC-44" vertex="1">
           <mxGeometry y="51" width="280" height="60" as="geometry" />
         </mxCell>
         <UserObject label="患者库" id="-22HzztCrq7GmQZzHRGp-7">
