@@ -590,7 +590,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4lXnKemfVmCBHWfFpqf2" name="【部署架构】">
-    <mxGraphModel dx="2545" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,7 +623,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="85" y="385.33" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-10" value="客户端可在不同入口使用相同或不同的域名访问平台服务， 如：cms后台、三方api、&lt;br&gt;通过网关处理后，将请求正确分发到对应服务实列，&lt;br&gt;内部服务可按需灵活拆分、方便工程构建、部署维护，&amp;nbsp;&lt;br&gt;拆分后内部通讯通过“数据总线” （内部数据通讯）进行高速数据交换，&lt;br&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
@@ -738,7 +738,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-45" value="三方系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-45" value="三方系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-46" value="知识库" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
