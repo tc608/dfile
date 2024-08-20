@@ -442,56 +442,56 @@
           <mxGeometry x="1025.5" y="31" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1320" y="647" width="290" height="223" as="geometry" />
+          <mxGeometry x="1320" y="647" width="310" height="223" as="geometry" />
         </mxCell>
         <UserObject label="数据分析" id="xES2a1sU3WJe3hF1oqAs-6">
           <mxCell style="swimlane;fontSize=18;align=center;swimlaneFillColor=#f4f4f4;fillColor=#ffe6cc;collapsible=0;startSize=40;strokeColor=#d79b00;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-            <mxGeometry width="290" height="223" as="geometry" />
+            <mxGeometry width="310" height="223" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-7" value="合理用药指标管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="26.85185185185185" y="51" width="107.4074074074074" height="39" as="geometry" />
+          <mxGeometry x="28.703703703703702" y="51" width="114.81481481481481" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-8" value="基本药物管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="26.852154407929266" y="101" width="107.4074074074074" height="40" as="geometry" />
+          <mxGeometry x="28.704027125717488" y="101" width="114.81481481481481" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-10" value="抗菌药物使用监测" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="26.852154407929266" y="151" width="107.4074074074074" height="40" as="geometry" />
+          <mxGeometry x="28.704027125717488" y="151" width="114.81481481481481" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-12" value="重点监控药品管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="158.42622848200335" y="51" width="107.4074074074074" height="40" as="geometry" />
+          <mxGeometry x="169.35217527386564" y="51" width="114.81481481481481" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-13" value="抗肿瘤监测管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="158.42622848200335" y="101" width="107.4074074074074" height="40" as="geometry" />
+          <mxGeometry x="169.35217527386564" y="101" width="114.81481481481481" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-14" value="医疗质控指标管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-15" vertex="1">
-          <mxGeometry x="158.42622848200335" y="151" width="107.4074074074074" height="40" as="geometry" />
+          <mxGeometry x="169.35217527386564" y="151" width="114.81481481481481" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1654" y="647" width="230" height="223" as="geometry" />
+          <mxGeometry x="1660" y="647" width="306" height="223" as="geometry" />
         </mxCell>
-        <UserObject label="点评" id="xES2a1sU3WJe3hF1oqAs-17">
+        <UserObject label="医疗数据点评" id="xES2a1sU3WJe3hF1oqAs-17">
           <mxCell style="swimlane;fontSize=18;align=center;swimlaneFillColor=#f4f4f4;fillColor=#ffe6cc;collapsible=0;startSize=40;strokeColor=#d79b00;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-            <mxGeometry width="230" height="223" as="geometry" />
+            <mxGeometry width="306" height="223" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xES2a1sU3WJe3hF1oqAs-18" value="点评标准管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="21.29653625456459" y="51" width="85.18518518518518" height="40" as="geometry" />
+        <mxCell id="xES2a1sU3WJe3hF1oqAs-18" value="点评数据上报" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
+          <mxGeometry x="25.32320199530536" y="51" width="101.29166666666666" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xES2a1sU3WJe3hF1oqAs-19" value="各类专项点评" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="21.29653625456459" y="101" width="85.18518518518518" height="40" as="geometry" />
+        <mxCell id="xES2a1sU3WJe3hF1oqAs-19" value="医疗数据治理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
+          <mxGeometry x="25.32320199530536" y="101" width="101.29166666666666" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-20" value="点评工作全流程管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="21.29653625456459" y="151" width="85.18518518518518" height="40" as="geometry" />
+          <mxGeometry x="25.32320199530536" y="151" width="101.29166666666666" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xES2a1sU3WJe3hF1oqAs-21" value="自定义点评规则" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="125.64814814814815" y="51" width="85.18518518518518" height="39" as="geometry" />
+        <mxCell id="xES2a1sU3WJe3hF1oqAs-21" value="全医疗数据闭环管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
+          <mxGeometry x="149.40520833333332" y="51" width="101.29166666666666" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="xES2a1sU3WJe3hF1oqAs-22" value="专项点评数据上报" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="125.64838810641645" y="101" width="85.18518518518518" height="40" as="geometry" />
+        <mxCell id="xES2a1sU3WJe3hF1oqAs-22" value="369患者视图" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
+          <mxGeometry x="149.40549366197203" y="101" width="101.29166666666666" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-23" value="多维度、细粒度抽样" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="xES2a1sU3WJe3hF1oqAs-16" vertex="1">
-          <mxGeometry x="125.64838810641645" y="151" width="85.18518518518518" height="40" as="geometry" />
+          <mxGeometry x="149.40549366197203" y="151" width="101.29166666666666" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xES2a1sU3WJe3hF1oqAs-24" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2230" y="647" width="337.5" height="223" as="geometry" />
@@ -540,30 +540,21 @@
           <mxGeometry x="1008" y="190" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O95ePDqJB7IbVTYVaM7Y-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1930" y="640" width="230" height="223" as="geometry" />
+          <mxGeometry x="1998" y="647" width="200" height="223" as="geometry" />
         </mxCell>
         <UserObject label="药品库" id="O95ePDqJB7IbVTYVaM7Y-17">
           <mxCell style="swimlane;fontSize=18;align=center;swimlaneFillColor=#f4f4f4;fillColor=#ffe6cc;collapsible=0;startSize=40;strokeColor=#d79b00;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-            <mxGeometry width="230" height="223" as="geometry" />
+            <mxGeometry x="-3" width="200" height="223" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="O95ePDqJB7IbVTYVaM7Y-21" value="药品说明书" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-17">
+          <mxGeometry x="61.52" y="151.5" width="108.48" height="39" as="geometry" />
+        </mxCell>
         <mxCell id="O95ePDqJB7IbVTYVaM7Y-18" value="药品规则" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="21.29653625456459" y="51" width="85.18518518518518" height="40" as="geometry" />
+          <mxGeometry x="57.519999999999996" y="51" width="105.48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O95ePDqJB7IbVTYVaM7Y-19" value="药品属性管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="21.29653625456459" y="101" width="85.18518518518518" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O95ePDqJB7IbVTYVaM7Y-20" value="点评工作全流程管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="21.29653625456459" y="151" width="85.18518518518518" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O95ePDqJB7IbVTYVaM7Y-21" value="药品说明书" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="125.64814814814815" y="51" width="85.18518518518518" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="O95ePDqJB7IbVTYVaM7Y-22" value="专项点评数据上报" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="125.64838810641645" y="101" width="85.18518518518518" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O95ePDqJB7IbVTYVaM7Y-23" value="多维度、细粒度抽样" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
-          <mxGeometry x="125.64838810641645" y="151" width="85.18518518518518" height="40" as="geometry" />
+        <mxCell id="O95ePDqJB7IbVTYVaM7Y-19" value="药品全属性管理" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" vertex="1" parent="O95ePDqJB7IbVTYVaM7Y-16">
+          <mxGeometry x="59.52" y="101" width="106.48" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
