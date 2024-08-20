@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="1941" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3K_oNV2d-IeETJ5J5liT-1" value="瑞思云业务架构" style="whiteSpace=wrap;html=1;fontSize=36;verticalAlign=top;dashed=1;dashPattern=1 4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-180" y="210" width="1970" height="1320" as="geometry" />
         </mxCell>
-        <mxCell id="3K_oNV2d-IeETJ5J5liT-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;用户&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#D4E1F5;width=100;height=40;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="250" width="280" height="350" as="geometry" />
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;平台用户&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#D4E1F5;width=100;height=40;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="250" width="280" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="3K_oNV2d-IeETJ5J5liT-3" value="医生" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-110" y="317" width="120" height="60" as="geometry" />
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-3" value="医院" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-130" y="360" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-4" value="药师" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-5" value="药店人员" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-110" y="402" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="420" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-6" value="系统" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="210" y="290" width="1030" height="140" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-82" value="患者" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="402" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="480" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;运维&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1610" y="450" width="160" height="1070" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="1618" y="702" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-87" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1151" y="450" width="120" height="300" as="geometry" />
+          <mxGeometry x="1150" y="450" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审方系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3K_oNV2d-IeETJ5J5liT-87" vertex="1">
           <mxGeometry width="120" height="300" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-94" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="830" y="450" width="120" height="300" as="geometry" />
+          <mxGeometry x="860" y="450" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-95" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;电子病历&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3K_oNV2d-IeETJ5J5liT-94" vertex="1">
           <mxGeometry width="120" height="300" as="geometry" />
@@ -355,7 +355,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-111" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="670" y="450" width="120" height="300" as="geometry" />
+          <mxGeometry x="720" y="450" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;质控平台系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3K_oNV2d-IeETJ5J5liT-111" vertex="1">
           <mxGeometry width="120" height="300" as="geometry" />
@@ -376,7 +376,7 @@
           <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-118" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="991" y="450" width="120" height="300" as="geometry" />
+          <mxGeometry x="1013" y="450" width="120" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床评价系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3K_oNV2d-IeETJ5J5liT-118" vertex="1">
           <mxGeometry width="120" height="300" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-125" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="229" y="460" width="370" height="300" as="geometry" />
+          <mxGeometry x="170" y="450" width="370" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-126" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;患者库&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3K_oNV2d-IeETJ5J5liT-125" vertex="1">
           <mxGeometry width="370" height="300" as="geometry" />
@@ -446,6 +446,9 @@
         </mxCell>
         <mxCell id="3K_oNV2d-IeETJ5J5liT-141" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="3K_oNV2d-IeETJ5J5liT-125" vertex="1">
           <mxGeometry x="260" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oQJ4bdG35kOt4FpmPfC-1" value="xxx" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-130" y="300" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
