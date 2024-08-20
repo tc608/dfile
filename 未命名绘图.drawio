@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="3273" dy="2503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1409" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
         <mxCell id="3K_oNV2d-IeETJ5J5liT-44" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KKSwd7td4oOasQx6DPScpFrDnDc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-ThVsdTOWCo88p9xujwbcLAaDnDh&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-XLVdde7uMorNxIxMQQQcuS5Pnof&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;检验项目&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;container=0;" parent="-22HzztCrq7GmQZzHRGp-73" vertex="1">
           <mxGeometry x="680" y="208" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-82" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;公共服务&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;fontStyle=1" vertex="1" parent="-22HzztCrq7GmQZzHRGp-93">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-82" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术公共服务&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;fontStyle=1" vertex="1" parent="-22HzztCrq7GmQZzHRGp-93">
           <mxGeometry x="348" y="569" width="1250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-22HzztCrq7GmQZzHRGp-83" value="rws&lt;br style=&quot;font-size: 16px;&quot;&gt;消息通讯" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="-22HzztCrq7GmQZzHRGp-93">
