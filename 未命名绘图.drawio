@@ -1,9 +1,452 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel>
+    <mxGraphModel dx="3372" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-1" value="瑞思云业务架构" style="whiteSpace=wrap;html=1;fontSize=36;verticalAlign=top;dashed=1;dashPattern=1 4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-180" y="210" width="1970" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;b&gt;用户&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#D4E1F5;width=100;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="250" width="280" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-3" value="医生" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-110" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-4" value="药师" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-5" value="药店人员" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-110" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-6" value="系统" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="1030" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-7" value="药学平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="305" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-8" value="质控平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="305" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-9" value="临床评价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="305" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-10" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot;&gt;&lt;div class=&quot;old-record-id-YPK6dGxJDo6go5xXWZbchKzznTe&quot;&gt;远程问诊&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="445" y="890" width="980" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-12" value="知识库" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=18;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry width="980" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-13" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;药物使用与管理&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="650" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-14" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;医学研究与教育&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="810" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-15" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;用药安全与监测&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="490" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-16" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;特殊人群用药&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="330" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-17" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;临床应用与指南&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="170" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-18" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;基础知识与法规&lt;/h3&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="10" y="34" width="140" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-19" value="药品说明书" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="92" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-20" value="临床用药指南" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="190" y="84" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-21" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;法律法规&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-22" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;常用医学公式&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="830" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-23" value="临床检验知识" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="670" y="139" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-24" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-EXo7dg6DLoo32ixrx4Tc7MjunOd&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;抗菌药物分类&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="192" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-25" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-D2B9dTwMGoJGDDxROYZck5bGnDc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;疾病用药知识&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-26" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RJVHdkrtOoJGQ8xDvC4cPjFMnng&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;妊娠分级用药&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="350" y="92" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-27" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RFyWdTkMNoQjnLxzmz2cja4onub&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;中药使用知识&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="830" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-28" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CsDQdUX7konVqsxgs9XcECbYnS8&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;细菌感染用药知识&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-29" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-UTmzdrPZXoEd0Oxs3BUc9eYVn1b&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;肝肾功能不全&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-30" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-EXo7dg6DLoo32ixrx4Tc7MjunOd&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-PyWydc38roqyKWxt1x6clvcvnDh&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;药物配伍&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-31" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KXI4dxLmWoabesxjAwXcH6y2nfO&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;中国药典&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-32" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KKSwd7td4oOasQx6DPScpFrDnDc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;处方集&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-33" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CizYdL75qoCFmixBCsxcFThYnwb&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;文献期刊&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="830" y="92" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-34" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RJVHdkrtOoJGQ8xDvC4cPjFMnng&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-BzTIdsnTWohq5fxiD9QcLEJ9nZg&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;临床指南&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="192" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-35" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RFyWdTkMNoQjnLxzmz2cja4onub&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-EQ1PdNnlBoj7y9x2NpdcNYQenFT&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;临床用药案例&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="190" y="179" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-36" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CsDQdUX7konVqsxgs9XcECbYnS8&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-L3pVdVWfgoNHYkxE5G3cOKlGn3b&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;用药教育&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="830" y="139" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-37" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KXI4dxLmWoabesxjAwXcH6y2nfO&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-Vr8yd2VCjo98Fox9OnscHbffnFf&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;妊娠哺乳用药&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="350" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-38" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KKSwd7td4oOasQx6DPScpFrDnDc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-ThVsdTOWCo88p9xujwbcLAaDnDh&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;儿童用药&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="350" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-39" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CizYdL75qoCFmixBCsxcFThYnwb&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-Jqw1dTL3So8uCDxQ7eYcoqZXnee&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;临床路径&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="190" y="132" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-40" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RJVHdkrtOoJGQ8xDvC4cPjFMnng&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-BzTIdsnTWohq5fxiD9QcLEJ9nZg&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FvERd9oAhod6VnxGUknceArOngf&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;不良反应库&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="510" y="92" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-41" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RFyWdTkMNoQjnLxzmz2cja4onub&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-EQ1PdNnlBoj7y9x2NpdcNYQenFT&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-MQgQdzc3RoXue9xhy1pcUUHrnmc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;国家基本药物&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="20" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-42" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CLDddbItjoVo6kxUgAkcXU8XnOe&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-CsDQdUX7konVqsxgs9XcECbYnS8&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-L3pVdVWfgoNHYkxE5G3cOKlGn3b&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-RfWPd7aTcoSYTlxF6DScY4RhnGd&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;超说明书用药&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="670" y="92" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-43" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KXI4dxLmWoabesxjAwXcH6y2nfO&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-Vr8yd2VCjo98Fox9OnscHbffnFf&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-IcgGdFW1co3PsGxoAPUcII9Tnwh&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;ATC及&lt;/strong&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;DDD&lt;/strong&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;使用&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="830" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-44" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-FYGXdTRgKoE5KMxUbOHcS2Pdn7e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-KKSwd7td4oOasQx6DPScpFrDnDc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-ThVsdTOWCo88p9xujwbcLAaDnDh&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;U75hdgrPCo3RmMxpjT1cg51FnG2&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;old-record-id-XLVdde7uMorNxIxMQQQcuS5Pnof&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;检验项目&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-11">
+          <mxGeometry x="670" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-45" value="" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1440" y="450" width="120" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-46" value="" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;fontStyle=0;align=center;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1610" y="450" width="160" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="890" width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;规则库&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-49" value="特殊人群" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-50" value="用药单位" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-51" value="用药天数" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="145" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-52" value="用药频次" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="198" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-53" value="相互作用" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="249" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-54" value="禁忌症" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="10" y="299" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-55" value="给药途径" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-56" value="药品用量" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-57" value="超适应症" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="145" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-58" value="适应症" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="198" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-59" value="配伍禁忌" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="249" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-60" value="重复用药" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-47">
+          <mxGeometry x="130" y="299" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-61" value="" style="group;fillColor=#E6E6E6;fontColor=#333333;strokeColor=none;container=0;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="1375" width="1110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-62" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;基础设施&lt;/font&gt;&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#E6E6E6;width=100;height=40;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1360" width="1420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-63" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Nginx&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-64" value="MySql" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="433" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-65" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Redis&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-66" value="ES" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-67" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Zhub&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-68" value="MongoDB" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-69" value="Kettle" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-70" value="公共服务" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1440" y="450" width="160" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-71" value="rws&lt;br style=&quot;font-size: 16px;&quot;&gt;消息通讯" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="525" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-72" value="rlog&lt;br style=&quot;font-size: 16px;&quot;&gt;日志服务" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="613" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-73" value="rfile&lt;br style=&quot;font-size: 16px;&quot;&gt;文件服务" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="702" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-74" value="rauth&lt;br style=&quot;font-size: 16px;&quot;&gt;安全中心" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="790" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1290" y="450" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;处方流转&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-77" value="患者数据库" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-78" value="处方创建" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-79" value="处方签章" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-80" value="处方审核" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-81" value="处方共享" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-75">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-82" value="患者" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;运维&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1610" y="450" width="160" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-84" value="GitLab" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="525" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-85" value="Docker" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="614" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-86" value="Jenkins" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="702" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1151" y="450" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审方系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-89" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-90" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-91" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-92" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-93" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-87">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="830" y="450" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-95" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;电子病历&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-96" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-97" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-98" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-99" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-100" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-94">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="基础数据库" id="3K_oNV2d-IeETJ5J5liT-101">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-170" y="1345" width="300" height="175" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="药品库" id="3K_oNV2d-IeETJ5J5liT-102">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-150" y="1425" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="频次" id="3K_oNV2d-IeETJ5J5liT-103">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-60" y="1425" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="用法/检验值" id="3K_oNV2d-IeETJ5J5liT-104">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="1425" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="检验项目" id="3K_oNV2d-IeETJ5J5liT-105">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-150" y="1471" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="手术" id="3K_oNV2d-IeETJ5J5liT-106">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-60" y="1471" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="药房" id="3K_oNV2d-IeETJ5J5liT-107">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="1471" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="患者库" id="3K_oNV2d-IeETJ5J5liT-108">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-150" y="1380" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="疾病库" id="3K_oNV2d-IeETJ5J5liT-109">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="-60" y="1380" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="特殊人群" id="3K_oNV2d-IeETJ5J5liT-110">
+          <mxCell style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+            <mxGeometry x="30" y="1380" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="450" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;质控平台系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-113" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-114" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-115" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-116" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-117" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-111">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="991" y="450" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;临床评价系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-120" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-121" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-122" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-123" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-124" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-118">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-125" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="229" y="460" width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-126" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;患者库&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry width="370" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-127" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="11" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-128" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="11" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-129" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="11" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-130" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="11" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-131" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="11" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-132" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="140" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-133" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="140" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-134" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="140" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-135" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="140" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-136" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="140" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-137" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="260" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-138" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="260" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-139" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="260" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-140" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="260" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_oNV2d-IeETJ5J5liT-141" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="3K_oNV2d-IeETJ5J5liT-125">
+          <mxGeometry x="260" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
