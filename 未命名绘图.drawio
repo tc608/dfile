@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="287" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1107" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-35" value="小程序(患者端)" style="outlineConnect=0;strokeColor=#006666;fillColor=#006666;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;shape=mxgraph.aws4.mobile_client;labelBackgroundColor=none;html=1;gradientColor=#b3b3b3;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="99.5" y="119" width="53" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Utr0kUG83FJn1SRRKso7-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医疗数据汇入&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#006666;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;gradientDirection=north;" vertex="1" parent="7oQJ4bdG35kOt4FpmPfC-34">
+        <mxCell id="Utr0kUG83FJn1SRRKso7-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;医疗数据汇入&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#006666;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;gradientDirection=north;" parent="7oQJ4bdG35kOt4FpmPfC-34" vertex="1">
           <mxGeometry x="82" y="739" width="90" height="60" as="geometry" />
         </mxCell>
         <UserObject label="(备用)" id="3K_oNV2d-IeETJ5J5liT-101">
@@ -232,19 +232,19 @@
             <mxGeometry width="150" height="300" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-22" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-22" value="病案信息" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
           <mxGeometry x="25" y="51" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-23" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-23" value="入院记录" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
           <mxGeometry x="25" y="101" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-24" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-24" value="手术信息" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
           <mxGeometry x="25" y="201" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-25" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-25" value="出院记录" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
           <mxGeometry x="25" y="151" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-22HzztCrq7GmQZzHRGp-26" value="x" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
+        <mxCell id="-22HzztCrq7GmQZzHRGp-26" value="住院病程记录" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;container=0;" parent="-22HzztCrq7GmQZzHRGp-20" vertex="1">
           <mxGeometry x="25" y="251" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-22HzztCrq7GmQZzHRGp-27" value="" style="group" parent="1" vertex="1" connectable="0">
