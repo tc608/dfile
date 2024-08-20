@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="2">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="191" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-30" value="xxx" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="7oQJ4bdG35kOt4FpmPfC-23" vertex="1">
           <mxGeometry x="1146.323943661972" y="50" width="130.14084507042256" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oQJ4bdG35kOt4FpmPfC-31" value="Kettle" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="7oQJ4bdG35kOt4FpmPfC-23" vertex="1">
+        <mxCell id="7oQJ4bdG35kOt4FpmPfC-31" value="" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="7oQJ4bdG35kOt4FpmPfC-23" vertex="1">
           <mxGeometry x="1355.6338028169014" y="50" width="130.14084507042256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7oQJ4bdG35kOt4FpmPfC-44" value="" style="group" parent="1" vertex="1" connectable="0">
