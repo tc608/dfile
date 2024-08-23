@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="3">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
-    <mxGraphModel dx="191" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3K_oNV2d-IeETJ5J5liT-1" value="瑞思云业务架构" style="whiteSpace=wrap;html=1;fontSize=36;verticalAlign=top;dashed=1;dashPattern=1 4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="970" y="80" width="1930" height="1610" as="geometry" />
         </mxCell>
-        <UserObject label="接入渠道" id="7oQJ4bdG35kOt4FpmPfC-34">
+        <UserObject label="接入渠道|用户入口" id="7oQJ4bdG35kOt4FpmPfC-34">
           <mxCell style="swimlane;fontSize=20;align=center;swimlaneFillColor=#f4f4f4;fillColor=#dae8fc;collapsible=0;startSize=50;strokeColor=#6c8ebf;fontStyle=1;container=0;" parent="1" vertex="1">
             <mxGeometry x="1008" y="490" width="280" height="980" as="geometry" />
           </mxCell>
