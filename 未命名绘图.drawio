@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7" pages="4">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
     <mxGraphModel dx="1620" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,7 +576,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4lXnKemfVmCBHWfFpqf2" name="【部署架构】">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,34 +650,34 @@
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-21" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;基础&lt;br style=&quot;font-size: 18px;&quot;&gt;审方&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;opacity=50;verticalAlign=middle;fontSize=18;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry width="349.5" height="169.5" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-22" value="r-core&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;（热备）" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-22" value="ppt-core&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;（热备）" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="24.5" y="29.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-23" value="r-audit&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-23" value="ppt-audit&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="24.5" y="89.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-24" value="r-report&lt;br style=&quot;font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-24" value="ppt-report&lt;br style=&quot;font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="24.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-25" value="r-sample&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-25" value="ppt-sample&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#7EA6E0;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="24.5" y="282.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-26" value="r-ws&lt;br style=&quot;font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-26" value="ppt-ws&lt;br style=&quot;font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="24.5" y="365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-27" value="r-core&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-27" value="ppt-core&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(主)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="204" y="29.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-28" value="r-audit&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(热备)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-28" value="ppt-audit&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(热备)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="204" y="89.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-29" value="r-report&lt;br style=&quot;font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-29" value="ppt-report&lt;br style=&quot;font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="204" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-30" value="r-sample&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-30" value="ppt-sample&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="204" y="282.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-31" value="r-ws&lt;br style=&quot;font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-31" value="ppt-ws&lt;br style=&quot;font-size: 14px;&quot;&gt;(冷备)" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="PX_hz0h1w2fwIzeo8YGD-17" vertex="1">
           <mxGeometry x="204" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PX_hz0h1w2fwIzeo8YGD-33" target="PX_hz0h1w2fwIzeo8YGD-11" edge="1">
@@ -686,7 +686,7 @@
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-33" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;其&lt;br style=&quot;font-size: 18px;&quot;&gt;他&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;opacity=50;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="364" y="620" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-34" value="定时任务" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="1" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-34" value="ppt-quatz&lt;br&gt;定时任务" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="628.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-35" value="HIS数据同步" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
@@ -730,7 +730,7 @@
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-46" value="知识库" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vGeP3rN-mgecrl0I0VmP-1" value="HTTP/WebSocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vGeP3rN-mgecrl0I0VmP-1" value="HTTP/WebSocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="470.33" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
