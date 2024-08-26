@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7" pages="4">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
     <mxGraphModel dx="1620" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,7 +576,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4lXnKemfVmCBHWfFpqf2" name="【部署架构】">
-    <mxGraphModel dx="1198" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1890" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,7 +686,7 @@
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-33" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;其&lt;br style=&quot;font-size: 18px;&quot;&gt;他&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;opacity=50;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="364" y="620" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PX_hz0h1w2fwIzeo8YGD-34" value="定时任务" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="PX_hz0h1w2fwIzeo8YGD-34" value="定时任务" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="628.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-35" value="HIS数据同步" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
@@ -730,6 +730,9 @@
         <mxCell id="PX_hz0h1w2fwIzeo8YGD-46" value="知识库" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vGeP3rN-mgecrl0I0VmP-1" value="HTTP/WebSocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="470.33" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -740,6 +743,40 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Xerb9bwYUSAsT_Pt0wLx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.1216.top/tmp/_20240821161219.jpg;" parent="1" vertex="1">
           <mxGeometry x="60" y="30" width="1100" height="619" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZowsNHr89L3EQbym7RXh" name="第 4 页">
+    <mxGraphModel dx="980" dy="-460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;b&gt;代码升级第一步：升级技术栈&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#E6E6E6;width=350;height=40;strokeColor=#7EA6E0;align=left;" vertex="1" parent="1">
+          <mxGeometry y="1180" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l9uMTSI9-1MPd6Q_p7-I-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l9uMTSI9-1MPd6Q_p7-I-6" target="l9uMTSI9-1MPd6Q_p7-I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-6" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;PPT单体&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Jdk1.8,&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;SpringBoot-1.5.13.RELEASE&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;MyBatis-plus-2.1.9&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;1、三方依赖：&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;org.apache.commons.commons-collections4&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;cn.hutool.hutool-all&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;ma.glasnost.orika.orika-core&lt;/span&gt;&lt;div&gt;2、项目中使用的工具代码零散无序，不统一、辨识度低，&lt;br&gt;&lt;/div&gt;&lt;div&gt;无编码标准共识&lt;br&gt;3、工程边界模糊（编码、业务系统）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1247" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-7" value="&lt;b&gt;PPT 多子系统&lt;/b&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;Jdk17+,&amp;nbsp;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;SpringBoot-3.1.10&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;MyBatis-plus-3.5.6&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#005073&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#005073&quot;&gt;【工具类使用】&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;①三方依赖去除：&lt;/b&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;org.apache.commons.commons-collections4&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;cn.hutool.hutool-all&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;ma.glasnost.orika.orika-core&lt;br&gt;&lt;font color=&quot;#005073&quot;&gt;&lt;b style=&quot;&quot;&gt;②排查使用情况更多三方依赖去除&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;③统一工具类&lt;/b&gt;&lt;div&gt;&amp;nbsp;- DKit : 时间处理&lt;br&gt;&amp;nbsp;- UKit ：通用&lt;br&gt;&amp;nbsp;- NetKit：网络&lt;br&gt;&amp;nbsp;- XmlKit：xml相关&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1247" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;b&gt;代码升级第二步：系统拆分&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;swimlaneFillColor=#E6E6E6;width=350;height=40;strokeColor=#7EA6E0;align=left;" vertex="1" parent="1">
+          <mxGeometry y="1590" width="800" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-11" value="合并、重拆模块&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;- ppt&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-base：基础模块&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-quatz：定时&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-report：报表&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-sample：点评&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-web：核心服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;----------&lt;br&gt;合并原则：&lt;br&gt;①按照 模块系统拆分代码，&lt;br&gt;将 domain、合并到自己模块内部，&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362" y="1720" width="230" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="l9uMTSI9-1MPd6Q_p7-I-14" value="&lt;div&gt;原有系统&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;- ppt&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-app-domain&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-center&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-domain&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-dsl&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-hospital-esi&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-hospital-esi-domain&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-platform&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-quztz&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; - ppt-scenter&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - pp-web&lt;br&gt;- rsy-common&lt;br&gt;&amp;nbsp; &amp;nbsp; - rsy-base-entity&lt;br&gt;&amp;nbsp; &amp;nbsp; - rsy-platform&lt;br&gt;&amp;nbsp; &amp;nbsp; - rsy-rbac&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; - rsy-rbac-domain&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;strike&gt; - third-part&lt;/strike&gt;&lt;br&gt;&lt;strike&gt;&amp;nbsp; &amp;nbsp; - third-part-starter&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="1720" width="230" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
