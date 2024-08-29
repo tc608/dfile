@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7" pages="7">
   <diagram name="【瑞思云业务架构】" id="gpIHLKLEVWWJSvzPu31k">
     <mxGraphModel dx="591" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -844,7 +844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eaz7dIjIoS_qRiXShHaf" name="审方业务逻辑流程">
-    <mxGraphModel dx="2729" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -974,7 +974,7 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Fye7csX2iZkKATS7z7g-74" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span&gt;并发高：&lt;/span&gt;&lt;/font&gt;&lt;br&gt;每个医院xxx次/秒 X 一个区N家医院 = xxx次/秒 （取一个峰值）&lt;br&gt;&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="1Fye7csX2iZkKATS7z7g-74" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span&gt;并发高：&lt;/span&gt;&lt;/font&gt;&lt;br&gt;每个医院80次/秒 X 一个区N家医院 = xxx次/秒 （取一个峰值）&lt;br&gt;&lt;/p&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="655" y="410" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Fye7csX2iZkKATS7z7g-78" value="" style="rounded=0;endArrow=none;dashed=1;html=1;" parent="1" source="1Fye7csX2iZkKATS7z7g-74" edge="1">
@@ -1120,6 +1120,29 @@
         </mxCell>
         <mxCell id="Z7VY_5OUDiTk1WDzkYrs-6" value="逻辑、规则复杂、业务复杂、对接负责&lt;br&gt;&amp;nbsp; &amp;lt;具体体现描述&amp;gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;container=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="2430" y="1370" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3pkvnaI08n0dBTn5MPWD" name="第 7 页">
+    <mxGraphModel dx="1743" dy="3484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T__UNv6gsw2RCD1ne-XX-1" value="审方数据持久化" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="589" y="-1006" width="630" height="1072" as="geometry" />
+        </mxCell>
+        <mxCell id="T__UNv6gsw2RCD1ne-XX-2" value="漏斗模型&lt;br&gt;&amp;nbsp;数据同步/加载&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;并发高：&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;每个医院xxx次/秒 X 一个区N家医院 = xxx次/秒 （取一个峰值），&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;响应要求：&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;毫秒级返回，（医生开方--&lt;b&gt;前置&lt;/b&gt;审方）&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;数据量&lt;span style=&quot;background-color: initial;&quot;&gt;大&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;：&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- &lt;b&gt;患者库&lt;/b&gt;，数据基数大，&lt;br&gt;&amp;nbsp;- &lt;b&gt;患者历史审方&lt;/b&gt;数据大，&lt;/div&gt;&lt;div&gt;&amp;nbsp;- &lt;b&gt;规则库&lt;/b&gt;数据大，&lt;br&gt;&amp;nbsp;- 药品库（不大，基础常规属性全量内存缓存）&lt;/div&gt;&lt;div&gt;&lt;br&gt;---&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;复杂度：&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1、&lt;span style=&quot;background-color: initial;&quot;&gt;医院&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;his 类型多（目前已完成x家接入，市面多少家）：&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 中联&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;东软&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. 盛博汇&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. 创业&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;e. xxx&lt;br&gt;2、匹配维度：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 100+规则库维度（并行处理规则库不同分类指标）&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;900+患者信息维度指标（）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. 医院/政策 &lt;b&gt;自定义规则&lt;/b&gt; (超量/用/天、禁用、重点监控) 触发规则&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. 患者、药品维度触发的规则 （两条条线同时执行）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;3、数据清洗转换引擎：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 诊断（疾病）、药品--关联，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; b. 用法、频次、检验结果N多、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;4、审方类型多样：&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 院内&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. 院外（处方流转、互联网医院/移动审方）&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="142" y="-132" width="420" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="T__UNv6gsw2RCD1ne-XX-3" value="审方流程，记录的数据都有哪些&lt;div&gt;1、患者信息记录：（已有数据、新增数据）&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;身高、体重、性别(定)、年龄、过敏史(累积)、&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;2、业务数据，&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;处方、&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;疾病、&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="669" y="-740" width="300" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="T__UNv6gsw2RCD1ne-XX-4" value="审方拉取准备数据都有哪些&lt;br&gt;三套系统：检查、检验、手术、" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="673" y="-903" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T__UNv6gsw2RCD1ne-XX-5" value="人员参与&lt;br&gt;状态节点&lt;br&gt;操作节点：人/程序&lt;div&gt;系统：HIS、检查、检验、手术&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="673" y="-495" width="300" height="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
