@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZowsNHr89L3EQbym7RXh" name="架构升级">
-    <mxGraphModel dx="948" dy="81" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -979,9 +979,6 @@
         <mxCell id="VhAmMIsaTBw42PlRBLVx-2" value="医生" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#2072B8;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1530.5" y="1380" width="59" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="VhAmMIsaTBw42PlRBLVx-4" value="药师" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2072B8;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_accounts;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2281" y="1781" width="59" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="VhAmMIsaTBw42PlRBLVx-8" value="医生" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#2072B8;" parent="1" vertex="1">
           <mxGeometry x="1361" y="550" width="46" height="50" as="geometry" />
         </mxCell>
@@ -1139,11 +1136,14 @@
         <mxCell id="1Fye7csX2iZkKATS7z7g-48" value="手术系统" style="whiteSpace=wrap;html=1;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontStyle=1;fillColor=#b1ddf0;" parent="LUKVHYmMM6a9nP8WuF93-5" vertex="1">
           <mxGeometry y="163" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VhAmMIsaTBw42PlRBLVx-4" value="药师" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2072B8;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_accounts;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2281" y="1781" width="59" height="59" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3pkvnaI08n0dBTn5MPWD" name="第 7 页">
-    <mxGraphModel dx="1724" dy="3442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
